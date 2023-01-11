@@ -197,7 +197,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/google/docsy"
+  url = "https://github.com/tomyjwu/docsy-playground"
   icon = "fab fa-github"
   desc = "Development takes place here!"
 [[params.links.developer]]
@@ -215,7 +215,7 @@ enable = false
 
 [module]
   # uncomment line below for temporary local development of module
-  # replacements = "github.com/google/docsy -> ../../docsy"
+  # replacements = "github.com/tomyjwu/docsy-playground -> ../../docsy-playground"
   [module.hugoVersion]
     extended = true
     min = "0.75.0"

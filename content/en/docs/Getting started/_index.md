@@ -1,6 +1,6 @@
 ---
 categories: ["Examples", "Placeholders"]
-tags: ["test","docs"] 
+tags: ["GettingStarted","docs"] 
 title: "Getting Started"
 linkTitle: "Getting Started"
 weight: 2

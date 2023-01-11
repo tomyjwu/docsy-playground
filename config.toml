@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tomyjwu.github.io/docsy-playground"
 title = "Goldydocs"
 
 # Language settings
@@ -120,12 +120,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+url_latest_version = "https://tomyjwu.github.io/docsy-playground"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/tomyjwu/docsy-playground"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/tomyjwu/docsy-playground"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
